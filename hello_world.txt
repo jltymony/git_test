@@ -1,1 +1,2 @@
 "This git exercise is coming together"
+"Testing using the git commands from VS Code rather than the command line"
